@@ -1,4 +1,4 @@
-module github.com/caddy-dns/digitalocean
+module github.com/faekiva/digitalocean
 
 go 1.25.0
 
