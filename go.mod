@@ -7,7 +7,7 @@ require (
 	github.com/libdns/digitalocean v0.0.0-20250606071607-dfa7af5c2e31
 )
 
-replace github.com/libdns/digitalocean => github.com/faekiva/digitalocean-libdns v0.0.0-20260330222130-e47c83ac911e
+replace github.com/libdns/digitalocean => github.com/faekiva/digitalocean-libdns v0.0.0-20260330222923-d683353178ba
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
